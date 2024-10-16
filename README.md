@@ -1,1 +1,1 @@
-# blogging-website-project
+# blogging
